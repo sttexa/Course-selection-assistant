@@ -1,0 +1,2540 @@
+{
+    "id" : "MATH1021",
+    "name" : "Calculus of One Variable",
+    "outline" : "https://www.sydney.edu.au/units/MATH1021/2020-S1C-ND-CC",
+    "semester" : "1,2",
+    "credit" : 3,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "MATH1011 OR MATH1901 OR MATH1906 OR ENVX1001 OR MATH1001 OR MATH1921 OR MATH1931",
+    "assumed" : "HSC Mathematics Extension 1 or equivalent",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Thu",
+            "startTime" : "11:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Fri",
+            "startTime" : "11:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "11:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "11:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "2",
+            "weekday" : "Thu",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "2",
+            "weekday" : "Fri",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA1001",
+    "name" : "Foundations of Data Science",
+    "outline" : "https://www.sydney.edu.au/units/DATA1001/2020-S1C-ND-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "DATA1901 OR MATH1005 OR MATH1905 OR MATH1015 OR MATH1115 OR ENVX1001 OR ENVX1002 OR ECMT1010 OR BUSS1020 OR STAT1021",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Mon",
+            "startTime" : "14:00",
+            "endTime" : "15:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Thu",
+            "startTime" : "16:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Fri",
+            "startTime" : "14:00",
+            "endTime" : "15:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA1901",
+    "name" : "Foundations of Data Science (Adv)",
+    "outline" : "https://www.sydney.edu.au/units/DATA1901/2020-S1C-ND-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "MATH1905 OR ECMT1010 OR ENVX1002 OR BUSS1020 OR DATA1001 OR MATH1115 OR MATH1015",
+    "assumed" : "An ATAR of 95 or more",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Mon",
+            "startTime" : "14:00",
+            "endTime" : "15:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Thu",
+            "startTime" : "16:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Fri",
+            "startTime" : "14:00",
+            "endTime" : "15:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }
+    ]
+}
+
+{
+    "id" : "MATH1002",
+    "name" : "Linear Algebra",
+    "outline" : "https://www.sydney.edu.au/units/MATH1002/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 3,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "MATH1012 OR MATH1014 OR MATH1902",
+    "assumed" : "HSC Mathematics or MATH1111. Students who have not completed HSC Mathematics (or equivalent) are strongly advised to take the Mathematics Bridging Course (offered in February).",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "08:00",
+            "endTime" : "09:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Mon",
+            "startTime" : "11:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Tue",
+            "startTime" : "11:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO1110",
+    "name" : "Introduction to Programming",
+    "outline" : "https://www.sydney.edu.au/units/INFO1110/2020-S1C-ND-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO1910 OR INFO1103 OR INFO1903 OR INFO1105 OR INFO1905",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "13:00",
+            "endTime" : "14:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Mon",
+            "startTime" : "15:00",
+            "endTime" : "16:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "13:00",
+            "endTime" : "14:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "2",
+            "weekday" : "Mon",
+            "startTime" : "15:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO1910",
+    "name" : "Introduction to Programming(Adv)",
+    "outline" : "https://www.sydney.edu.au/units/INFO1910/2020-S1C-ND-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO1110 OR INFO1103 OR INFO1903 OR INFO1105 OR INFO1905",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "13:00",
+            "endTime" : "14:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "2",
+            "weekday" : "Mon",
+            "startTime" : "15:00",
+            "endTime" : "16:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "13:00",
+            "endTime" : "14:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "2",
+            "weekday" : "Mon",
+            "startTime" : "15:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO1111",
+    "name" : "Computing 1A Professionalism",
+    "outline" : "https://www.sydney.edu.au/units/INFO1111/2020-S1C-ND-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "ENGG1805 OR ENGG1111 OR ENGD1000",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "11:00",
+            "endTime" : "12:30"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "15:30",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "MATH1064",
+    "name" : "Discrete Mathematics for Computation",
+    "outline" : "https://www.sydney.edu.au/units/MATH1064/2020-S1C-ND-CC",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "10:00",
+            "endTime" : "11:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "12:00",
+            "endTime" : "13:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "10:00",
+            "endTime" : "11:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO1112",
+    "name" : "Computing 1B OS & Network Platforms",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/alpha/INFO1112",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "ELEC1601 AND (INFO1110 OR INFO1113)",
+    "prohibition" : "NONE",
+    "assumed" : "A basic knowledge of Python is assumed.",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "16:00",
+            "endTime" : "18:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC1601",
+    "name" : "Introduction to Computer Systems",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/alpha/ELEC1601",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "HSC Mathematics extension 1 or 2",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "12:00",
+            "endTime" : "14:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO1113",
+    "name" : "Object-Oriented Programming",
+    "outline" : "https://www.sydney.edu.au/units/INFO1113/2020-S1C-ND-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "INFO1110",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO1105 OR INFO1905",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "9:00",
+            "endTime" : "10:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "11:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "12:00",
+            "endTime" : "13:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "14:00",
+            "endTime" : "15:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "2",
+            "weekday" : "Mon",
+            "startTime" : "16:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "2",
+            "weekday" : "Wed",
+            "startTime" : "13:00",
+            "endTime" : "14:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA2001",
+    "name" : "Data Science: Big Data and Data Diversity",
+    "outline" : "https://www.sydney.edu.au/units/DATA2001/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "DATA1002 OR DATA1902 OR INFO1110 OR INFO1903",
+    "corequisite" : "NONE",
+    "prohibition" : "DATA2901",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP2123",
+    "name" : "Data Structures and Algorithms",
+    "outline" : "https://www.sydney.edu.au/units/COMP2123/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "INFO1110 OR INFO1113 OR DATA1002 OR DATA1902 OR INFO1903",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO1105 OR INFO1905 OR COMP2823",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "13:00",
+            "endTime" : "15:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP2823",
+    "name" : "Data Structures and Algorithms (Adv)",
+    "outline" : "https://www.sydney.edu.au/units/COMP2823/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "INFO1110 OR INFO1910 OR INFO1113 OR DATA1002 OR DATA1902 OR INFO1103 OR INFO1903",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO1105 OR INFO1905 OR COMP2123",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "14:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO2222",
+    "name" : "Computing 2 Usability and Security",
+    "outline" : "https://www.sydney.edu.au/units/INFO2222/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "(INFO1105 OR INFO1905 OR INFO1113) AND (INFO1111 OR INFO1711 OR ENGG1111 OR ENGD1000 OR ENGG1805)",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO2722",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "15:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP2017",
+    "name" : "Systems Programming",
+    "outline" : "https://www.sydney.edu.au/units/COMP2017/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "INFO1113 OR INFO1105 OR INFO1905",
+    "corequisite" : "COMP2123 OR COMP2823 OR INFO1105 OR INFO1905",
+    "prohibition" : "COMP2129 OR COMP9017 OR COMP9129",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "12:00",
+            "endTime" : "14:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP2022",
+    "name" : "Models of Computation",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/286584",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "INFO1113 OR INFO1903",
+    "corequisite" : "NONE",
+    "prohibition" : "COMP2922",
+    "assumed" : "MATH1004 OR MATH1904 OR MATH1064 OR MATH2069 OR MATH2969",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "15:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP2922",
+    "name" : "Models of Computation(Adv)",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289915",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "INFO1113 OR INFO1903. Distinction level result in the above 1000 level units.",
+    "corequisite" : "NONE",
+    "prohibition" : "COMP2022",
+    "assumed" : "(MATH1004 OR MATH1904 OR MATH1064 OR MATH2069 OR MATH2969) AND (INFO1105 OR INFO1905 OR COMP2123 OR COMP2823)",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "special_consideration" : true,
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "15:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3027",
+    "name" : "Algorithm Design",
+    "outline" : "https://www.sydney.edu.au/units/COMP3027/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "COMP2123 OR COMP2823 OR INFO1105 OR INFO1905",
+    "corequisite" : "NONE",
+    "prohibition" : "COMP2007 OR COMP2907 OR COMP3927",
+    "assumed" : "MATH1004 OR MATH1904 OR MATH1064",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3109",
+    "name" : "Programming Languages and Paradigms",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/123857",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "COMP2017 AND COMP2022",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "12:00",
+            "endTime" : "14:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3221",
+    "name" : "Distributed Systems",
+    "outline" : "https://www.sydney.edu.au/units/COMP3221/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "(INFO1105 OR INFO1905) OR (INFO1113 AND (COMP2123 OR COMP2823))",
+    "corequisite" : "NONE",
+    "prohibition" : "COMP2121",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "14:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3308",
+    "name" : "Introduction to Artificial Intelligence",
+    "outline" : "https://www.sydney.edu.au/units/COMP3308/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "COMP3608",
+    "assumed" : "Algorithms. Programming skills (e.g. Java, Python, C, C++, Matlab)",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3419",
+    "name" : "Graphics and Multimedia",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/123931",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "COMP2123 OR COMP2823 OR INFO1105 OR INFO1905",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Programming skills",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "16:00",
+            "endTime" : "18:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3520",
+    "name" : "Operating Systems Internals",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/124003",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "(COMP2017 OR COMP2129) AND (COMP2123 OR COMP2823 OR INFO1105 OR INFO1905)",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "15:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3608",
+    "name" : "Introduction to Artificial Intelligence (Adv)",
+    "outline" : "https://www.sydney.edu.au/units/COMP3608/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "Distinction-level results in at least one 2000 level COMP or MATH or SOFT unit",
+    "corequisite" : "NONE",
+    "prohibition" : "COMP3308",
+    "assumed" : "Algorithms. Programming skills (e.g. Java, Python, C, C++, Matlab)",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "special_consideration" : true,
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3888",
+    "name" : "Computer Science Project",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/290053",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "(COMP2123 OR COMP2823) AND COMP2017 AND (COMP2022 OR COMP2922)",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO3600 OR COMP3600 OR COMP3615 OR COMP3988",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permisssion" : "Required",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "14:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3927",
+    "name" : "Algorithm Design (Adv)",
+    "outline" : "https://www.sydney.edu.au/units/COMP3927/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "COMP2123 OR COMP2823 OR INFO1105 OR INFO1905",
+    "corequisite" : "NONE",
+    "prohibition" : "COMP2007 OR COMP2907 OR COMP3027",
+    "assumed" : "MATH1004 OR MATH1904 OR MATH1064",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "16:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP3988",
+    "name" : "Computer Science Project (Advanced)",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/290052",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "[(COMP2123 OR COMP2823) AND COMP2017 AND (COMP2022 OR COMP2922) with Distinction level results in at least one of these units.]",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO3600 OR COMP3615 OR COMP3600 OR COMP3888",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "special_consideration" : true,
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "14:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA2002",
+    "name" : "Data Analytics: Learning from Data",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/290052",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "12:00",
+            "endTime" : "13:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "09:00",
+            "endTime" : "10:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "14:00",
+            "endTime" : "15:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA2901",
+    "name" : "Big Data and Data Diversity (Advanced)",
+    "outline" : "https://www.sydney.edu.au/units/DATA2901/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "DATA1002 OR DATA1902 OR INFO1110 OR INFO1903. Students need Distinction or better in one of the prerequisite units.",
+    "corequisite" : "NONE",
+    "prohibition" : "DATA2001",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "special_consideration" : true,
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }, 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "11:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA2902",
+    "name" : "Data Analytics: Learning from Data (Adv)",
+    "outline" : "https://www.sydney.edu.au/units/DATA2902",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "STAT2012 OR STAT2912 OR DATA2002",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "12:00",
+            "endTime" : "13:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "09:00",
+            "endTime" : "10:00"
+        },
+		{
+			"semester" : "2",
+			"id" : "1",
+			"weekday": "Thu",
+			"startTime": "14:00",
+			"endTime": "15:00"
+		}
+    ]
+}
+
+
+
+{
+    "id" : "DATA3404",
+    "name" : "Data Science Platforms",
+    "outline" : "https://www.sydney.edu.au/units/DATA3404/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "DATA2001 OR DATA2901 OR ISYS2120 OR INFO2120 OR INFO2820",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO3504 OR INFO3404",
+    "assumed" : "This unit of study assumes that students have previous knowledge of database structures and of SQL. The prerequisite material is covered in DATA2001 or ISYS2120. Familiarity with a programming language (e.g. Java or C) is also expected.",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA3406",
+    "name" : "Human-in-the-Loop Data Analytics",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289913",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "DATA2001 AND DATA2002",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Basic statistics, database management, and programming.",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "11:00",
+            "endTime" : "13:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA3888",
+    "name" : "Data Science Capstone",
+    "outline" : "https://www.sydney.edu.au/units/DATA3888/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "DATA2001 OR DATA2901 OR DATA2002 OR DATA2902 OR STAT2912 OR STAT2012",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO2150",
+    "name" : "Introduction to Health Data Science",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/288256",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "(INFO1003 OR INFO1903 OR INFO1110 OR DATA1002 OR DATA1902) AND (DATA1001 OR MATH1005 OR MATH1905 OR MATH1015 OR BUSS1020)",
+    "corequisite" : "DATA2001 OR DATA2901 OR ISYS2120 OR INFO2120 OR INFO2820 OR INFO1903",
+    "prohibition" : "NONE",
+    "assumed" : "Basic knowledge of Entity Relationship Modelling, database technology and SQL",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO3315",
+    "name" : "Human-Computer Interaction",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/125605",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "11:00",
+            "endTime" : "13:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO3616",
+    "name" : "Principles of Security and Security Engineering",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289883",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "ELEC5616 OR INFO2315",
+    "assumed" : "INFO1110 AND INFO1112 AND INFO1113 AND MATH1064",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "ISYS2110",
+    "name" : "Analysis and Design of Web Info Systems",
+    "outline" : "https://www.sydney.edu.au/units/ISYS2110/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "INFO1113 OR INFO1105 OR INFO1905",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO2110",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "15:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "ISYS2160",
+    "name" : "Information Systems in the Internet Age",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289847",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "ISYS2140",
+    "assumed" : "INFO1003 OR INFO1903 OR INFO1113",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "14:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "ISYS3401",
+    "name" : "Information Technology Evaluation",
+    "outline" : "https://www.sydney.edu.au/units/ISYS3401/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "(INFO2110 OR ISYS2110) AND (INFO2120 OR ISYS2120) AND (ISYS2140 OR ISYS2160)",
+    "corequisite" : "NONE",
+    "prohibition" : "ISYS2140",
+    "assumed" : "MATH1005 OR MATH1905",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "12:00",
+            "endTime" : "14:00"
+        }
+    ]
+}
+
+{
+    "id" : "ISYS3402",
+    "name" : "Decision Analytics & Support Systems",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289862",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "(ISYS2110 OR INFO2110) AND (ISYS2120 OR INFO2120)",
+    "corequisite" : "NONE",
+    "prohibition" : "ISYS2140",
+    "assumed" : "Database Management AND Systems Analysis and Modelling",
+    "type" : "Table A Electives",
+    "permission" : "Required",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "None",
+            "weekday" : "None",
+            "startTime" : "None",
+            "endTime" : "None"
+        }
+    ]
+}
+
+{
+    "id" : "ISYS3888",
+    "name" : "Decision Analytics & Support Systems",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/290054",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "(INFO2110 OR ISYS2110) AND (INFO2120 OR ISYS2120) AND (ISYS2140 OR ISYS2160)",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO3600 OR ISYS3207 OR ISYS3400",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "14:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "SOFT2201",
+    "name" : "Software Construction and Design 1",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289947",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "INFO1113 OR INFO1105 OR INFO1905",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO3220 OR COMP9201",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "14:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "SOFT3202",
+    "name" : "Software Construction and Design 2",
+    "outline" : "https://www.sydney.edu.au/units/SOFT3202/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "SOFT2201",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO3220",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "13:00",
+            "endTime" : "15:00"
+        }
+    ]
+}
+
+{
+    "id" : "SOFT3410",
+    "name" : "Concurrency for Software Development",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289843",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "(INFO1105 OR INFO1905) OR (INFO1113 AND (COMP2123 OR COMP2823))",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Table A Electives",
+    "Peimission" : "Required",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "SOFT3888",
+    "name" : "Software Development Project",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/290055",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "[18CP 2000-level or above units from SOFT, COMP or INFO]",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "SOFT3202",
+    "type" : "Table A Electives",
+    "permission" : "None",
+    "special_consideration" : true,
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "14:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "ISYS2120",
+    "name" : "Data & Information Management",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/alpha/ISYS2120",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "INFO1113 OR INFO1105 OR INFO1905 OR INFO1003 OR INFO1903 OR DECO1012",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO2120 OR INFO2820 OR COMP5138",
+    "assumed" : "Programming skills",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "16:00",
+            "endTime" : "18:00"
+        }
+    ]
+}
+
+{
+    "id" : "SOFT2412",
+    "name" : "Agile Software Development Practices",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/alpha/SOFT2412",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "INFO1113 OR INFO1105 OR INFO1905",
+    "corequisite" : "NONE",
+    "prohibition" : "COMP9412",
+    "assumed" : "Programming skills",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "15:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO3333",
+    "name" : "Computing 3 Management",
+    "outline" : "https://www.sydney.edu.au/units/INFO3333/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "12 credit points of 2000-level units",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO3402",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "special_consideration" : true,
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "10:00",
+            "endTime" : "13:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5045",
+    "name" : "Computational Geometry",
+    "outline" : "https://www.sydney.edu.au/units/COMP5045/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Experience with data structures and algorithms as covered in COMP9103 OR COMP2123 OR COMP2823 OR INFO1105 OR INFO1905 (or equivalent UoS from different institutions)",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "14:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5046",
+    "name" : "Natural Language Processing",
+    "outline" : "https://www.sydney.edu.au/units/COMP5046/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Knowledge of an OO programming language",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "14:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5047",
+    "name" : "Pervasive Computing",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/126071",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Background in programming and operating systems that is sufficient for the student to independently learn new programming tools from standard online technical materials. Ability to conduct a literature search. Ability to write reports of work done.",
+    "type" : "Adv Electives",
+    "permission" : "Required",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "15:00",
+            "endTime" : "18:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5048",
+    "name" : "Visual Analytics",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/126338",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "COMP9103 OR COMP2123 OR COMP2823 OR INFO1105 OR INFO1905. It is assumed that students will have experience with data structure and algorithms as covered in COMP9103 OR COMP2123 OR COMP2823 OR INFO1105 OR INFO1905 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5216",
+    "name" : "Mobile Computing",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/287929",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "COMP5214 OR COMP9103. Software Development in JAVA, or similar introductory software development units.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "17:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5313",
+    "name" : "Large Scale Networks",
+    "outline" : "https://www.sydney.edu.au/units/COMP5313/2020-S1C-NE-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Basic knowledge of computer networks as covered in INFO1112 or COMP9201 or COMP9601 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5318",
+    "name" : "Machine Learning and Data Mining",
+    "outline" : "https://www.sydney.edu.au/units/COMP5318/2020-S1C-NE-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Programming skills",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }, 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5328",
+    "name" : "Advanced Machine Learning",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289910",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "COMP5318 OR COMP3308 OR COMP3608",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5329",
+    "name" : "Deep Learning",
+    "outline" : "https://www.sydney.edu.au/units/COMP5329/2020-S1C-NE-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "COMP5318",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5338",
+    "name" : "Advanced Data Models",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/126658",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "This unit of study assumes foundational knowledge of relational database systems as taught in COMP5138/COMP9120 (Database Management Systems) or INFO2120/INFO2820/ISYS2120 (Database Systems 1)",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5347",
+    "name" : "Web Application Development",
+    "outline" : "https://www.sydney.edu.au/units/COMP5347/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "INFO1113 OR COMP9103 OR COMP9220 OR COMP5028",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Experience with software development as covered in SOFT2412 or COMP9103 (or equivalent UoS from different institutions)",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "16:00",
+            "endTime" : "18:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5348",
+    "name" : "Enterprise Scale Software Architecture",
+    "outline" : "https://www.sydney.edu.au/units/COMP5348/2020-S1C-NE-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Experience with software development as covered in SOFT2412 or COMP9103 and also COMP2123 OR COMP2823 OR INFO1105 OR INFO1905 (or equivalent UoS from different institutions)",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5349",
+    "name" : "Cloud Computing",
+    "outline" : "https://www.sydney.edu.au/units/COMP5349/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Basic knowledge of computer networks as covered in INFO1112 or COMP9201 or COMP9601 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "14:00",
+            "endTime" : "16:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5415",
+    "name" : "Multimedia Design and Authoring",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/126763",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "SOFT2412 OR COMP9103. It is assumed that students will have experience with software development as covered in SOFT2412 or COMP9103 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5416",
+    "name" : "Advanced Network Technologies",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/126798",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "ELEC3506 OR ELEC9506 OR ELEC5740 OR COMP5116",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5424",
+    "name" : "Information Technology in Biomedicine",
+    "outline" : "https://www.sydney.edu.au/units/COMP5424/2020-S1C-NE-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Experience with software development as covered in SOFT2412 or COMP9103 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "19:00",
+            "endTime" : "21:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5425",
+    "name" : "Multimedia Retrieval",
+    "outline" : "https://www.sydney.edu.au/units/COMP5425/2020-S1C-NE-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Experience with programming skills, as learned in COMP9103 OR COMP2123 OR COMP2823 OR INFO1105 OR INFO1905 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5426",
+    "name" : "Parallel and Distributed Computing",
+    "outline" : "https://www.sydney.edu.au/units/COMP5426/2020-S1C-NE-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Experience with algorithm design and software development as covered in (COMP2017 or COMP9017) and COMP3027 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5427",
+    "name" : "Usability Engineering",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/287930",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "ISYS2110 OR ISYS2120 OR COMP9110 OR COMP9201. It is assumed that students will have skills with modelling as covered in ISYS2110 or ISYS2120 or COMP9110 or COMP9201 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "13:00",
+            "endTime" : "15:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5617",
+    "name" : "Empirical Security Analysis and Engineering",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/289759",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "INFO3616 OR ELEC5616",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Experience with algorithm design and software development as covered in (COMP2017 or COMP9017) and COMP3027 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "17:00",
+            "endTime" : "19:00"
+        }
+    ]
+}
+
+{
+    "id" : "COMP5618",
+    "name" : "Applied Cybersecurity",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/alpha/COMP5618",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Experience with algorithm design and software development as covered in (COMP2017 or COMP9017) and COMP3027 (or equivalent UoS from different institutions).",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "17:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "DATA5207",
+    "name" : "Data Analysis in the Social Sciences",
+    "outline" : "https://www.sydney.edu.au/units/DATA5207/2020-S1C-ND-CC",
+    "semester" : "1,Summer Main,Int December",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "COMP5310",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "18:00",
+            "endTime" : "21:00"
+        }, 
+        {
+            "semester" : "Int December",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "Int December",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "Int December",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5306",
+    "name" : "Video Intelligence and Compression",
+    "outline" : "https://www.sydney.edu.au/units/ELEC5306/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Basic understanding of digital signal processing (filtering, DFT) and programming skills (e.g. Matlab/Java/Python/C++)",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "17:00",
+            "endTime" : "19:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5307",
+    "name" : "Advanced Signal Processing with Deep Learning",
+    "outline" : "https://www.sydney.edu.au/units/ELEC5306/2020-S1C-ND-CC",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Mathematics (e.g., probability and linear algebra) and programming skills (e.g. Matlab/Java/Python/C++)",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "17:00",
+            "endTime" : "19:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5508",
+    "name" : "Wireless Engineering",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/121392",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Basic knowledge in probability and statistics, analog and digital communications, error probability calculation in communications channels, and telecommunications network.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "13:00",
+            "endTime" : "15:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5509",
+    "name" : "Mobile Networks",
+    "outline" : "https://www.sydney.edu.au/units/ELEC5509/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "ELEC3505 AND ELEC3506. Basically, students need to know the concepts of data communications and mobile communications, which could be gained in one the following units of study: ELEC3505 Communications, ELEC3506 Data Communications and the Internet, or similar units. If you are not sure, please contact the instructor.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "13:00",
+            "endTime" : "15:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5514",
+    "name" : "Networked Embedded Systems",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/121532",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "(ELEC3305 OR ELEC9305) AND (ELEC3506 OR ELEC9506) AND (ELEC3607 OR ELEC9607) AND (ELEC4505 OR ELEC9515) AND ELEC5508.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "17:00",
+            "endTime" : "19:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5616",
+    "name" : "Computer and Network Security",
+    "outline" : "https://www.sydney.edu.au/units/ELEC5616/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "A programming language, basic maths.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "15:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5618",
+    "name" : "Software Quality Engineering",
+    "outline" : "https://www.sydney.edu.au/units/ELEC5618/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Writing programs with multiple functions or methods in multiple files; design of complex data structures and combination in non trivial algorithms; use of an integrated development environment; software version control systems.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "17:00",
+            "endTime" : "19:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5619",
+    "name" : "Object Oriented Application Frameworks",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/120955",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Java programming, and some web development experience are essential. Databases strongly recommended",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "16:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "ELEC5620",
+    "name" : "Model Based Software Engineering",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/250692",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "A programming language, basic maths.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "10:00",
+            "endTime" : "12:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO5010",
+    "name" : "IT Advanced Topic A",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/127115",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "None",
+            "id" : "None",
+            "weekday" : "None",
+            "startTime" : "None",
+            "endTime" : "None"
+        }
+    ]
+}
+
+{
+    "id" : "INFO5011",
+    "name" : "IT Advanced Topic B",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/127151",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO5991",
+    "name" : "Services Science Management and Engineering",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/127257",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "INFO5990. Students are expected to have a degree in computer science, engineering, information technology, information systems or business.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "18:00",
+            "endTime" : "19:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO5992",
+    "name" : "Understanding IT Innovations",
+    "outline" : "https://www.sydney.edu.au/units/INFO5992/2020-S1C-NE-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        },
+		{
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Mon",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO6010",
+    "name" : "Advanced Topics in IT Project Management",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/286296",
+    "semester" : "2",
+    "credit" : 6,
+    "prerequisite" : "INFO6007. OR 3-5 years working experience in IT Project Management",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "Students are assumed to understand the role of IT projects.",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "special_consideration" : true,
+    "time" : [ 
+        {
+            "semester" : "2",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "18:00",
+            "endTime" : "21:00"
+        }
+    ]
+}
+
+{
+    "id" : "ISYS5050",
+    "name" : "Knowledge Management Systems",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/127403",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Adv Electives",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "18:00",
+            "endTime" : "20:00"
+        }
+    ]
+}
+
+{
+    "id" : "ISYS5070",
+    "name" : "Change Management in IT",
+    "outline" : "https://cusp.sydney.edu.au/students/view-unit-page/uos_id/287932",
+    "semester" : "Int January,Int July",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "The unit is expected to be taken after the following related units INFO6007 Project Management in IT and COMP5206 Information Technologies and Systems.",
+    "type" : "Adv Electives",
+    "permission" : "Required",
+    "time" : [ 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "Int January",
+            "id" : "1",
+            "weekday" : "Fri",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "Int July",
+            "id" : "1",
+            "weekday" : "Tue",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "Int July",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }, 
+        {
+            "semester" : "Int July",
+            "id" : "1",
+            "weekday" : "Thu",
+            "startTime" : "09:00",
+            "endTime" : "17:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO4001",
+    "name" : "Thesis A",
+    "outline" : "https://www.sydney.edu.au/units/INFO4001/2020-S1C-SU-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "None",
+            "id" : "None",
+            "weekday" : "None",
+            "startTime" : "None",
+            "endTime" : "None"
+        }
+    ]
+}
+
+{
+    "id" : "INFO4444",
+    "name" : "Computing 4 Innovation",
+    "outline" : "https://www.sydney.edu.au/units/INFO4444/2020-S1C-ND-CC",
+    "semester" : "1",
+    "credit" : 6,
+    "prerequisite" : "INFO3333",
+    "corequisite" : "NONE",
+    "prohibition" : "INFO4990",
+    "assumed" : "Students should have knowledge of several different aspects of computing at the 3000-level",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "1",
+            "id" : "1",
+            "weekday" : "Wed",
+            "startTime" : "12:00",
+            "endTime" : "14:00"
+        }
+    ]
+}
+
+{
+    "id" : "INFO4002",
+    "name" : "Thesis B",
+    "outline" : "https://www.sydney.edu.au/units/INFO4002/2020-S1C-SU-CC",
+    "semester" : "1,2",
+    "credit" : 6,
+    "prerequisite" : "NONE",
+    "corequisite" : "NONE",
+    "prohibition" : "NONE",
+    "assumed" : "NONE",
+    "type" : "Core",
+    "permission" : "None",
+    "time" : [ 
+        {
+            "semester" : "None",
+            "id" : "None",
+            "weekday" : "None",
+            "startTime" : "None",
+            "endTime" : "None"
+        }
+    ]
+}

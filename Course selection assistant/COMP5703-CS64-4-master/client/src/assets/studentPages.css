@@ -1,0 +1,181 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+
+}
+
+.el-step__title.is-finish {
+    color: rgb(104,104,104);
+    font-weight: 700;
+}
+.el-step__description.is-finish{
+    color: #303133;
+    font-weight: 700;
+}
+
+#login-body{
+    height: 100vh;
+    background-image: url("USYDbackground.png");
+    background-position: top;
+    background-size: cover;
+}
+
+.table-general {
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.table-general td{
+    border: 2px rgb(236, 238, 245);
+    border-style: none none solid none;
+    height: 40px;
+}
+
+.table-general th{
+    border: 2px rgb(236, 238, 245);
+    border-style: none solid solid none;
+    height: 40px;
+}
+
+.table-head-unit-name {
+    text-align: left;
+    width: 500px;
+}
+
+.table-general th{
+    text-align: center;
+}
+
+.a {
+    color: #409EFF;
+    font-style: normal;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.item {
+    margin-bottom: 18px;
+}
+
+.box-card {
+
+}
+
+.login-input {
+    padding-right: 20%;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.el-row {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.el-avatar {
+    margin: 20px;
+}
+
+.el-card {
+    text-align: center;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.table-unit-selection {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-color: white;
+}
+
+.link {
+    color: #409EFF;
+    font-weight: bold;
+}
+
+.el-table {
+
+    text-align: center;
+}
+
+.el-table-column {
+    text-align: center;
+}
+
+#card-studied {
+    background-color: rgb(217,219,221);
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#card-studied-units h5{
+    font-size: 16px;
+    color: rgb(213,82,55);
+}
+
+#head {
+    background-color: rgb(60,60,60);
+    text-align: left;
+}
+
+#head-logo {
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    vertical-align: middle;
+}
+
+#des-card{
+    background-color: rgba(255,255,255,0.8);
+    margin-left: 10px;
+    margin-right: 10px;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align:center;
+}
+
+#login-card {
+    background-color: rgba(255,255,255,0.8);
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: auto;
+    text-align:center;
+}
+
+#signup-card {
+    margin-top: 5%;
+    margin-bottom: 20px;
+    width: auto;
+    text-align:center;
+}
+
+#stu-profile-card {
+    background-image: url("USYDbackground2.png");
+    background-position: center;
+    background-size: cover;
+}
+
+#profile-card {
+    background-color: rgba(255,255,255,0.8);
+    text-align: left;
+    width: auto;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#dialog-unit-selection {
+    text-align: center;
+}

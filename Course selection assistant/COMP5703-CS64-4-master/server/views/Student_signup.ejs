@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>login</title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+
+    <script type="text/javascript">
+        var CheckIt=function (){
+            var userID=document.forms["mform"]["id"];
+            var password=document.forms["mform"]["password"];
+            var c_password=document.forms["mform"]["confirm_password"];
+            var name=document.forms["mform"]["name"];
+            var major=document.forms["mform"]["major"];
+            var minor=document.forms["mform"]["minor"];
+            var semester=document.forms["mform"]["semester"];
+            var year=document.forms["mform"]["year"];
+            if (userID.value==null || userID.value==""){
+                alert ("Please input ID")
+                userID.focus();
+                return false;
+            }
+            if (name.value==null || name.value==""){
+                alert("Please input Real name")
+                name.focus();
+                return false;
+            }
+            if (password.value==null || password.value==""){
+                alert("Please input Password")
+                password.focus();
+                return false;
+            }
+            if(password.value.length<8 || password.value.length>20){
+                alert("Password's length incorrect")
+                password.focus();
+                return false;
+            }
+            if (c_password.value==null || c_password.value==""){
+                alert("Please confirm Password")
+                c_password.focus();
+                return false;
+            }
+            if(c_password.value!= password.value){
+                alert("Passwords do not match")
+                c_password.focus();
+                return false;
+            }
+            if (major.value==null || major.value==""){
+                alert("Please input your major")
+                major.focus();
+                return false;
+            }
+            if (minor.value==null || minor.value==""){
+                alert("Please input your minor")
+                minor.focus();
+                return false;
+            }
+            if (semester.value==null || semester.value==""){
+                alert("Please input your semester")
+                semester.focus();
+                return false;
+            }
+            if (year.value==null || year.value==""){
+                alert("Please input your school year")
+                year.focus();
+                return false;
+            }
+            return true;
+        }
+
+    </script>
+</head>
+<body>
+<form action="save" name="mform" method="post" onsubmit="return CheckIt()">
+    <input type="text" placeholder="Student ID" name="id"><br>
+    <input type="text" placeholder="Real name"name="name"><br>
+    <input type="password" placeholder="password" name="password"><br>
+    <input type="password" placeholder="confirm password" name="confirm_password"><br>
+    <input type="text" placeholder="major"name="major"><br>
+    <input type="text" placeholder="minor"name="minor"><br>
+    <input type="text" placeholder="semester" name="semester"><br>
+    <input type="text" placeholder="year" name="year"><br>
+    <button type="submit">Submit</button>
+</form>
+
+</body>
+</html>

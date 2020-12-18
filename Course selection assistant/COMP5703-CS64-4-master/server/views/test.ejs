@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <script type="text/javascript">
+        function Change(str, c_value){
+            var xmlhttp = new XMLHttpRequest();
+            var input=document.getElementById("Input_test")
+            var s_id=document.getElementById("id");
+            xmlhttp.open("POST","change_profile",true);
+            xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+            if(str=="name"){
+                xmlhttp.send("type=name&name="+c_value);
+            }else{
+                if(str=="year"){
+                    xmlhttp.send("type=year&year="+c_value);
+                }else{
+                    if(str=="semester"){
+                        xmlhttp.send("type=semester&semester="+c_value);
+                    }else{
+                        if(str=="major"){
+                            xmlhttp.send("type=major&major="+c_value);
+                        }else{
+                            if(str=="minor"){
+                                xmlhttp.send("type=minor&minor="+c_value);
+                            }
+                        }
+                    }
+                }
+            }
+
+            xmlhttp.onreadystatechange=function()
+            {
+                if (xmlhttp.readyState==4 && xmlhttp.status==200)
+                {
+                    document.getElementById("test").innerHTML=xmlhttp.responseText;
+                }
+            }
+        }
+
+        function edit(element,type){
+
+            var oldhtml = element.innerHTML;
+            var newobj = document.createElement('input');
+            newobj.type = 'text';
+            newobj.value=oldhtml;
+            element.innerHTML = '';　　
+            element.appendChild(newobj);
+            newobj.focus();
+            newobj.onblur = function(){
+                element.innerHTML = this.value ? this.value : oldhtml;
+                Change(type,element.innerHTML);
+            }
+        }
+    </script>
+</head>
+<body>
+<h1>Avatar</h1>
+ID:<p id="id"><%= s_id %></p><br>
+NAME:<p id="name" ondblclick="edit(this,'name')"><%= s_name %></p><br>
+YEAR:<p id="year" ondblclick="edit(this,'year')"><%= s_year %></p><br>
+SEMESTER:<p id="semester" ondblclick="edit(this,'semester')"><%= s_semester %></p><br>
+MAJOR:<p id="major" ondblclick="edit(this,'major')"><%= s_major %></p><br>
+MINOR:<p id="minor" ondblclick="edit(this,'minor')"><%= s_minor %></p><br>
+<p id="test" >Nothing</p>
+</body>
+</html>

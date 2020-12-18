@@ -1,0 +1,615 @@
+{
+    "id" : "BAC-CDS",
+    "name" : "Bachelor of Advanced Computing (Computational Data Science)",
+    "core" : [ 
+        "COMP2123", 
+		"COMP2823", 
+        "DATA1001", 
+		"DATA1901", 
+        "ELEC1601", 
+        "INFO1110", 
+		"INFO1910", 
+        "INFO1111", 
+        "INFO1112", 
+        "INFO1113", 
+        "INFO2222", 
+        "INFO3333", 
+        "INFO4001", 
+        "INFO4002", 
+        "INFO4444", 
+        "ISYS2120", 
+        "MATH1002", 
+        "MATH1021", 
+        "MATH1064", 
+        "SOFT2412"
+    ],
+    "advElectives" : [ 
+        "COMP5045", 
+        "COMP5046", 
+        "COMP5047", 
+        "COMP5048", 
+        "COMP5216", 
+        "COMP5313", 
+        "COMP5318", 
+        "COMP5328", 
+        "COMP5329", 
+        "COMP5338", 
+        "COMP5347", 
+        "COMP5348", 
+        "COMP5349", 
+        "COMP5415", 
+        "COMP5416", 
+        "COMP5424", 
+        "COMP5425", 
+        "COMP5426", 
+        "COMP5427", 
+        "COMP5617", 
+		"COMP5618", 
+        "DATA5207", 
+        "ELEC5306", 
+        "ELEC5508", 
+        "ELEC5509", 
+        "ELEC5514", 
+        "ELEC5616", 
+        "ELEC5618", 
+        "ELEC5619", 
+        "ELEC5620", 
+        "INFO4003", 
+        "INFO5010", 
+        "INFO5011", 
+        "INFO5991", 
+		"INFO5992", 
+        "INFO6010", 
+        "ISYS5050", 
+        "ISYS5070"
+    ],
+    "electives" : [ 
+        "COMP2017", 
+        "COMP2022", 
+        "COMP2922", 
+        "COMP3027", 
+        "COMP3109", 
+        "COMP3221", 
+        "COMP3308", 
+        "COMP3419", 
+        "COMP3520", 
+        "COMP3608", 
+        "COMP3888", 
+        "COMP3927", 
+        "COMP3988", 
+        "DATA2001", 
+        "DATA2002", 
+		"DATA2902",
+        "DATA2901", 
+        "DATA3404", 
+        "DATA3406", 
+        "DATA3888", 
+        "INFO2150", 
+        "INFO3315", 
+        "INFO3616", 
+        "ISYS2110", 
+        "ISYS2160", 
+        "ISYS3401", 
+        "ISYS3402", 
+        "ISYS3888", 
+        "SOFT2201", 
+        "SOFT3202", 
+        "SOFT3410", 
+        "SOFT3888"
+    ],
+    "major" : [ 
+        "COMP3027", 
+        "COMP3308", 
+        "COMP3608", 
+        "COMP3927", 
+        "DATA2001", 
+        "DATA2002", 
+		"DATA2902", 
+        "DATA2901", 
+        "DATA3404", 
+        "DATA3406", 
+        "DATA3888"
+    ],
+    "major2" : [ 
+        {
+            "name" : "Computer Science",
+            "required" : [ 
+                "COMP2017", 
+                "COMP2022", 
+                "COMP3027", 
+                "COMP3888", 
+                "COMP3221 OR COMP3308 OR COMP3419 OR COMP3520"
+            ],
+            "minor" : [ 
+                "COMP2017", 
+                "COMP2022", 
+                "COMP3221 OR COMP3419"
+            ]
+        }, 
+        {
+            "name" : "Information System",
+            "required" : [ 
+                "ISYS3402", 
+                "ISYS2110", 
+                "ISYS2160", 
+                "ISYS3401", 
+                "ISYS3888"
+            ],
+            "minor" : [ 
+                "ISYS2110", 
+                "ISYS2160", 
+                "ISYS3402 OR ISYS3401"
+            ]
+        }, 
+        {
+            "name" : "Software Development",
+            "required" : [ 
+                "SOFT3410", 
+                "SOFT2201", 
+                "SOFT3202", 
+                "SOFT3888"
+            ],
+            "minor" : [ 
+                "SOFT2201", 
+                "SOFT3410 OR SOFT3202"
+            ]
+        }
+    ]
+}
+
+{
+    "id" : "BAC-CS",
+    "name" : "Bachelor of Advanced Computing (Computer Science)",
+    "core" : [ 
+        "COMP2123", 
+		"COMP2823",
+        "DATA1001", 
+		"DATA1901", 
+        "ELEC1601", 
+        "INFO1110", 
+		"INFO1910", 
+        "INFO1111", 
+        "INFO1112", 
+        "INFO1113", 
+        "INFO2222", 
+        "INFO3333", 
+        "INFO4001", 
+        "INFO4002", 
+        "INFO4444", 
+        "ISYS2120", 
+        "MATH1002", 
+        "MATH1021", 
+        "MATH1064", 
+        "SOFT2412"
+    ],
+    "advElectives" : [ 
+        "COMP5045", 
+        "COMP5046", 
+        "COMP5047", 
+        "COMP5048", 
+        "COMP5216", 
+        "COMP5313", 
+        "COMP5318", 
+        "COMP5328", 
+        "COMP5329", 
+        "COMP5338", 
+        "COMP5347", 
+        "COMP5348", 
+        "COMP5349", 
+        "COMP5415", 
+        "COMP5416", 
+        "COMP5424", 
+        "COMP5425", 
+        "COMP5426", 
+        "COMP5427", 
+        "DATA5207", 
+        "ELEC5306", 
+        "ELEC5307", 
+        "ELEC5508", 
+        "ELEC5509", 
+        "ELEC5514", 
+        "ELEC5616", 
+        "ELEC5618", 
+        "ELEC5619", 
+        "ELEC5620", 
+        "INFO4003", 
+        "INFO5010", 
+        "INFO5011", 
+        "INFO5991", 
+		"INFO5992", 
+        "INFO6010", 
+        "ISYS5050"
+    ],
+    "electives" : [ 
+        "COMP2017", 
+        "COMP2022", 
+        "COMP2922", 
+        "COMP3027", 
+        "COMP3221", 
+        "COMP3308", 
+        "COMP3419", 
+        "COMP3520", 
+        "COMP3608", 
+        "COMP3888", 
+        "COMP3927", 
+        "COMP3988", 
+        "DATA2001", 
+        "DATA2002", 
+		"DATA2902",
+        "DATA2901", 
+        "DATA3001", 
+        "DATA3404", 
+        "DATA3406", 
+        "INFO2150", 
+        "INFO3315", 
+        "INFO3616", 
+        "ISYS2110", 
+        "ISYS2160", 
+        "ISYS3401", 
+        "ISYS3402", 
+        "ISYS3888", 
+        "SOFT2201", 
+        "SOFT3202", 
+        "SOFT3410", 
+        "SOFT3888"
+    ],
+    "major" : [ 
+        "COMP2017", 
+        "COMP2022", 
+        "COMP3027", 
+        "COMP3221", 
+        "COMP3308", 
+        "COMP3419", 
+        "COMP3520", 
+        "COMP3888"
+    ],
+    "major2" : [ 
+        {
+            "name" : "Computational Data Science",
+            "required" : [ 
+                "2,COMP3027 OR COMP3308 OR DATA3404 OR DATA3406", 
+                "DATA2002 OR DATA2902", 
+                "DATA3001", 
+                "DATA2001"
+            ],
+            "minor" : [ 
+                "DATA2001", 
+                "DATA2002 OR DATA2902", 
+                "COMP3308"
+            ]
+        }, 
+        {
+            "name" : "Information System",
+            "required" : [ 
+                "ISYS3402", 
+                "ISYS2160", 
+                "ISYS2110", 
+                "ISYS3401", 
+                "ISYS3888"
+            ],
+            "minor" : [ 
+                "ISYS2110", 
+                "ISYS2160", 
+                "ISYS3402 OR ISYS3401"
+            ]
+        }, 
+        {
+            "name" : "Software Development",
+            "required" : [ 
+                "SOFT3410", 
+                "SOFT2201", 
+                "SOFT3202", 
+                "SOFT3888"
+            ],
+            "minor" : [ 
+                "SOFT2201", 
+                "SOFT3410 OR SOFT3202"
+            ]
+        }
+    ]
+}
+
+{
+    "id" : "BAC-IS",
+    "name" : "Bachelor of Advanced Computing (Information System)",
+    "core" : [ 
+        "COMP2123", 
+		"COMP2823", 
+        "DATA1001", 
+		"DATA1901", 
+        "ELEC1601", 
+        "INFO1110", 
+		"INFO1910", 
+        "INFO1111", 
+        "INFO1112", 
+        "INFO1113", 
+        "INFO2222", 
+        "INFO3333", 
+        "INFO4001", 
+        "INFO4002", 
+        "INFO4444", 
+        "ISYS2120", 
+        "MATH1002", 
+        "MATH1021", 
+        "MATH1064", 
+        "SOFT2412"
+    ],
+    "advElectives" : [ 
+        "COMP5045", 
+        "COMP5046", 
+        "COMP5047", 
+        "COMP5048", 
+        "COMP5216", 
+        "COMP5313", 
+        "COMP5318", 
+        "COMP5328", 
+        "COMP5329", 
+        "COMP5338", 
+        "COMP5347", 
+        "COMP5348", 
+        "COMP5349", 
+        "COMP5415", 
+        "COMP5416", 
+        "COMP5424", 
+        "COMP5425", 
+        "COMP5426", 
+        "COMP5427", 
+        "DATA5207", 
+        "ELEC5306", 
+        "ELEC5307", 
+        "ELEC5508", 
+        "ELEC5509", 
+        "ELEC5514", 
+        "ELEC5616", 
+        "ELEC5618", 
+        "ELEC5619", 
+        "ELEC5620", 
+        "INFO4003", 
+        "INFO5010", 
+        "INFO5011", 
+        "INFO5991", 
+		"INFO5992", 
+        "INFO6010", 
+        "ISYS5050"
+    ],
+    "electives" : [ 
+        "COMP2017", 
+        "COMP2022", 
+        "COMP2922", 
+        "COMP3027", 
+        "COMP3221", 
+        "COMP3308", 
+        "COMP3419", 
+        "COMP3520", 
+        "COMP3608", 
+        "COMP3888", 
+        "COMP3927", 
+        "COMP3988", 
+        "DATA2001", 
+        "DATA2002", 
+		"DATA2902",
+        "DATA2901", 
+        "DATA3001", 
+        "DATA3404", 
+        "DATA3406", 
+        "INFO2150", 
+        "INFO3315", 
+        "INFO3616", 
+        "ISYS2110", 
+        "ISYS2160", 
+        "ISYS3401", 
+        "ISYS3402", 
+        "ISYS3888", 
+        "SOFT2201", 
+        "SOFT3202", 
+        "SOFT3410", 
+        "SOFT3888"
+    ],
+    "major" : [ 
+        "ISYS2110", 
+        "ISYS2120", 
+        "ISYS2160", 
+        "ISYS3401", 
+        "ISYS3402", 
+        "ISYS3888"
+    ],
+    "major2" : [ 
+        {
+            "name" : "Computational Data Science",
+            "required" : [ 
+                "2,COMP3027 OR COMP3308 OR DATA3404 OR DATA3406", 
+                "DATA2002 OR DATA2902", 
+                "DATA3001", 
+                "DATA2001"
+            ],
+            "minor" : [ 
+                "DATA2001", 
+                "DATA2002 OR DATA2902", 
+                "COMP3308"
+            ]
+        }, 
+        {
+            "name" : "Computer Science",
+            "required" : [ 
+                "COMP2017", 
+                "COMP2022", 
+                "COMP3027", 
+                "COMP3888", 
+                "COMP3221 OR COMP3308 OR COMP3419 OR COMP3520"
+            ],
+            "minor" : [ 
+                "COMP2017", 
+                "COMP2022", 
+                "COMP3221 OR COMP3419"
+            ]
+        }, 
+        {
+            "name" : "Software Development",
+            "required" : [ 
+                "SOFT3410", 
+                "SOFT2201", 
+                "SOFT3202", 
+                "SOFT3888"
+            ],
+            "minor" : [ 
+                "SOFT2201", 
+                "SOFT3410 OR SOFT3202"
+            ]
+        }
+    ]
+}
+
+{
+    "id" : "BAC-SD",
+    "name" : "Bachelor of Advanced Computing (Software Development)",
+    "core" : [ 
+        "COMP2123", 
+		"COMP2823", 
+        "DATA1001", 
+		"DATA1901", 
+        "ELEC1601", 
+        "INFO1110", 
+		"INFO1910", 
+        "INFO1111", 
+        "INFO1112", 
+        "INFO1113", 
+        "INFO2222", 
+        "INFO3333", 
+        "INFO4001", 
+        "INFO4002", 
+        "INFO4444", 
+        "ISYS2120", 
+        "MATH1002", 
+        "MATH1021", 
+        "MATH1064", 
+        "SOFT2412"
+    ],
+    "advElectives" : [ 
+        "COMP5045", 
+        "COMP5046", 
+        "COMP5047", 
+        "COMP5048", 
+        "COMP5216", 
+        "COMP5313", 
+        "COMP5318", 
+        "COMP5328", 
+        "COMP5329", 
+        "COMP5338", 
+        "COMP5347", 
+        "COMP5348", 
+        "COMP5349", 
+        "COMP5415", 
+        "COMP5416", 
+        "COMP5424", 
+        "COMP5425", 
+        "COMP5426", 
+        "COMP5427", 
+        "COMP5617", 
+		"COMP5618",
+        "DATA5207", 
+        "ELEC5306", 
+        "ELEC5307", 
+        "ELEC5508", 
+        "ELEC5509", 
+        "ELEC5514", 
+        "ELEC5616", 
+        "ELEC5618", 
+        "ELEC5619", 
+        "ELEC5620", 
+        "INFO4003", 
+        "INFO5010", 
+        "INFO5011", 
+        "INFO5991", 
+		"INFO5992", 
+        "INFO6010", 
+        "ISYS5050", 
+        "ISYS5070"
+    ],
+    "electives" : [ 
+        "COMP2017", 
+        "COMP2022", 
+        "COMP2922", 
+        "COMP3027", 
+        "COMP3109", 
+        "COMP3221", 
+        "COMP3308", 
+        "COMP3419", 
+        "COMP3520", 
+        "COMP3608", 
+        "COMP3888", 
+        "COMP3927", 
+        "COMP3988", 
+        "DATA2001", 
+        "DATA2002", 
+		"DATA2902", 
+        "DATA2901", 
+        "DATA3001", 
+        "DATA3404", 
+        "DATA3406", 
+        "INFO2150", 
+        "INFO3315", 
+        "INFO3616", 
+        "ISYS2110", 
+        "ISYS2160", 
+        "ISYS3401", 
+        "ISYS3402", 
+        "ISYS3888", 
+        "SOFT2201", 
+        "SOFT3202", 
+        "SOFT3410", 
+        "SOFT3888"
+    ],
+    "major" : [ 
+        "SOFT2201", 
+        "SOFT2412", 
+        "SOFT3202", 
+        "SOFT3410", 
+        "SOFT3888"
+    ],
+    "major2" : [ 
+        {
+            "name" : "Computational Data Science",
+            "required" : [ 
+                "2,COMP3027 OR COMP3308 OR DATA3404 OR DATA3406", 
+                "DATA2002 OR DATA2902", 
+                "DATA3001", 
+                "DATA2001"
+            ],
+            "minor" : [ 
+                "DATA2001", 
+                "DATA2002 OR DATA2902", 
+                "COMP3308"
+            ]
+        }, 
+        {
+            "name" : "Computer Science",
+            "required" : [ 
+                "COMP2017", 
+                "COMP2022", 
+                "COMP3027", 
+                "COMP3888", 
+                "COMP3221 OR COMP3308 OR COMP3419 OR COMP3520"
+            ],
+            "minor" : [ 
+                "COMP2017", 
+                "COMP2022", 
+                "COMP3221 OR COMP3419"
+            ]
+        }, 
+        {
+            "name" : "Information System",
+            "required" : [ 
+                "ISYS3402", 
+                "ISYS2160", 
+                "ISYS2110", 
+                "ISYS3401", 
+                "ISYS3888"
+            ],
+            "minor" : [ 
+                "ISYS2110", 
+                "ISYS2160", 
+                "ISYS3402 OR ISYS3401"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>login</title>
+    <link rel='stylesheet' href='/stylesheets/style.css'/>
+    <script type="text/javascript">
+        var CheckIt=function (){
+            var userID=document.forms["mform"]["id"];
+            var password=document.forms["mform"]["password"];
+
+            if (userID.value==null || userID.value==""){
+                alert ("Please input ID")
+                userID.focus();
+                return false;
+            }
+            if (password.value==null || password.value==""){
+                alert("Please input Password")
+                password.focus();
+                return false;
+            }
+
+            return true;
+        }
+
+    </script>
+</head>
+<body>
+<form name="mform" action="student/login" method="post" onsubmit="return CheckIt();">
+    <input type="text" placeholder="Student ID" name="id"><br>
+    <input type="password" placeholder="password" name="password"><br>
+    <button type="submit">submit</button>
+</form>
+
+<a href="student/signup">Sign up?</a>
+</body>
+</html>
